@@ -1,4 +1,5 @@
 # Reverse Cipher 
+# This is just a beginning of the code 
 def reverseChiper():
     print ('Type a message to be encripted: ') 
     message = input ()
